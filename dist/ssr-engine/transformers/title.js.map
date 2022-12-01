@@ -1,0 +1,1 @@
+{"version":3,"file":"title.js","sourceRoot":"","sources":["../../../src/ssr-engine/transformers/title.ts"],"names":[],"mappings":";;AAAA,mCAAwC;AAGxC;;;;;;GAMG;AACH,mBAAyB,IAAY,EAAE,cAAkC,EAAE,OAAuB;IAC9F,MAAM,KAAK,GAAG,cAAc,CAAC,QAAQ,CAAC,IAAI,CAAC,aAAa,CAAC,OAAO,CAAC,CAAC;IAClE,OAAO,IAAA,qBAAa,EAAC,IAAI,EAAE,iCAAiC,EAAE,KAAK,CAAC,SAAS,CAAC,CAAC;AACnF,CAAC;AAHD,4BAGC;AAAA,CAAC"}

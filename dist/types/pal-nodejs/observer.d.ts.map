@@ -1,0 +1,1 @@
+{"version":3,"file":"observer.d.ts","sourceRoot":"","sources":["../../../src/pal-nodejs/observer.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,SAAS;IACtB,MAAM,EAAE,IAAI,CAAC;IACb,OAAO,CAAC,EAAE,oBAAoB,CAAC;IAC/B,QAAQ,EAAE,CAAC,SAAS,EAAE,cAAc,EAAE,KAAK,IAAI,CAAC;CACjD"}

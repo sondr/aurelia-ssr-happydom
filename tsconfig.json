@@ -1,0 +1,37 @@
+{
+    "compilerOptions": {
+        "incremental": true,
+        "outDir": "./dist",
+        "declarationDir": "./dist/types",
+        "tsBuildInfoFile": "./dist/.tsbuildinfo",
+        "target": "ES2015",
+        "module": "CommonJS",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "noImplicitAny": false,
+        "lib": [
+            "esnext",
+            "DOM"
+        ],
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "declaration": true,
+        "declarationMap": true,
+        "sourceMap": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true,
+        "preserveConstEnums": true,
+        "typeRoots": [
+            "./types/",
+            "./node_modules/@types/",
+        ]
+    },
+    // "files": [
+    //     "./types/global.d.ts"
+    // ]
+    // ,
+    // "include": [
+    //     "src"
+    // ]
+}
